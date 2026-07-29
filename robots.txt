@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zone-info-note.pub-jongno-pro.xyz/sitemap.xml
